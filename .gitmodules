@@ -1,0 +1,6 @@
+[submodule "jquery-autobars"]
+	path = jquery-autobars
+	url = https://github.com/cultofmetatron/jquery-autobars.git
+[submodule "jsonresume-theme-elegant"]
+	path = jsonresume-theme-elegant
+	url = https://github.com/mudassir0909/jsonresume-theme-elegant.git
